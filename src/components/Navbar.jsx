@@ -23,7 +23,7 @@ const Navbar = () => {
     <AppBar position="sticky">
       <StyledToolbar>
         <Typography variant="h6" sx={{ display: { xs: "none", sm: "block" } }}>
-          Lovro's App
+          Social app
         </Typography>
         <TheaterComedyIcon sx={{ display: { xs: "block", sm: "none" } }} />
         <Search>
