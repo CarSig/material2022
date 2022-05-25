@@ -20,9 +20,9 @@ const Post = () => {
           </IconButton>
         }
         title="Niagara Falls"
-        subheader="September 14, 2021"
+        subheader="May 14, 2022"
       />
-      <CardMedia component="img" height="10%" image="https://upload.wikimedia.org/wikipedia/commons/a/ab/3Falls_Niagara.jpg" alt="Paella dish" />
+      <CardMedia component="img" height="450rem" image="https://upload.wikimedia.org/wikipedia/commons/a/ab/3Falls_Niagara.jpg" alt="Niagara" />
       <CardContent>
         <Typography variant="body2" color="text.secondary">
           Niagara Falls s a group of three waterfalls at the southern end of Niagara Gorge, spanning the border between the province of Ontario in Canada and
